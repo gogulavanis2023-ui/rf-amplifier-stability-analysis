@@ -1,0 +1,10 @@
+# OS / editor
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
